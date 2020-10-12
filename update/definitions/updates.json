@@ -3,8 +3,8 @@
     "windows": {
       "open-url": "",
       "latest-version": "1.0",
-      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
-      "changelog": "This is an example changelog for Windows. Go on...",
+      "download-url": "https://github.com/chris-shenzhen-china/qnotes/blob/main/update/downloads/qnotes.exe",
+      "changelog": "Init qnotes install file for Windows. Go on...",
       "mandatory": true
     },
     "osx": {
